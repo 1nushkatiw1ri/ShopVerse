@@ -15,3 +15,12 @@
     gap:30px;
     flex-wrap:wrap;
 }
+
+.filters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 30px 0;
+}
